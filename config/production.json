@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Seid Project",
+  "mongoUri": "mongodb+srv://Seid:1q2w3e4r@cluster0.1n7dr8c.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
